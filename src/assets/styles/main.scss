@@ -1,0 +1,14 @@
+$body-html: rgb(0,249,255);
+
+body{
+    background: linear-gradient(90deg, rgba(0,249,255,1) 0%, rgba(255,0,0,1) 50%, rgba(249,255,0,1) 100%);;
+
+}
+
+nav {
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+}
